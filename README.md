@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I'm Tom 👋
+
+This is a collection of my public coding projects so far.
+
+The highlights, currently, are my CLI application "Pokemon Card Guessing Game" which was built using Python and my portfolio website which was built using HTML/CSS.
+
+Enjoy!
 
 <!--
 **tthecoder15/tthecoder15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
