@@ -1,8 +1,10 @@
 ## Hello, I'm Tom 👋
 
-This is a collection of my public coding projects so far.
+This is a collection of my coding projects which is continually expanding!
 
-The highlights, currently, are my CLI application "Pokemon Card Guessing Game" which was built using Python and my portfolio website which was built using HTML/CSS.
+The highlights, currently, are my MERN stack veterinary clinic web application [_Pawfect Care_](https://github.com/tthecoder15/T3A2-MERN-App/tree/main/T3A2-B), my CLI application [_Pokemon Card Guessing Game_](https://github.com/tthecoder15/Pokemon-Card-Guessing-Game-CLI-Application) which was built using Python (and you can easily install and play today!) and my [portfolio website](https://github.com/tthecoder15/Portfolio-Website) which was built using static HTML and CSS.
+
+Currently I am working on a trading card search engine to further enhance my state management and query handling knowledge.
 
 Enjoy!
 
